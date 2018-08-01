@@ -21,6 +21,7 @@ npm install karma-cli@1.0.1 --save-dev
 npm install karma-webpack@2.0.13 --save-dev
 npm install karma-jquery@0.2.2 --save-dev
 npm install karma-jasmine-html-reporter@0.2.2 --save-dev
+npm install babel-core@6.26.0 babel-loader@7.1.3 babel-preset-es2015@6.24.1 --save-dev
 
 
 Initialize Jasmine:
@@ -39,7 +40,7 @@ npm install karma-jasmine-html-reporter@0.2.2 --save-dev
 
 
 one line install:
-npm install webpack@4.0.1 webpack-cli@2.0.9 style-loader@0.20.2 css-loader@0.28.10 html-webpack-plugin@3.0.6 clean-webpack-plugin@0.1.18 uglifyjs-webpack-plugin@1.2.2 webpack-dev-server@3.1.0 eslint@4.18.2 eslint-loader@2.0.0 file-loader url-loader  jasmine-core@2.99.0 jasmine@3.1.0 karma@2.0.0 karma-jasmine@1.1.1 karma-chrome-launcher@2.2.0 karma-cli@1.0.1 karma-webpack@2.0.13 karma-jquery@0.2.2 karma-jasmine-html-reporter@0.2.2 --save-dev
+npm install webpack@4.0.1 webpack-cli@2.0.9 style-loader@0.20.2 css-loader@0.28.10 html-webpack-plugin@3.0.6 clean-webpack-plugin@0.1.18 uglifyjs-webpack-plugin@1.2.2 webpack-dev-server@3.1.0 eslint@4.18.2 eslint-loader@2.0.0 file-loader url-loader  jasmine-core@2.99.0 jasmine@3.1.0 karma@2.0.0 karma-jasmine@1.1.1 karma-chrome-launcher@2.2.0 karma-cli@1.0.1 karma-webpack@2.0.13 karma-jquery@0.2.2 karma-jasmine-html-reporter@0.2.2 npm install babel-core@6.26.0 babel-loader@7.1.3 babel-preset-es2015@6.24.1 --save-dev --save-dev
 
 *package for production and development: dependencies*
 
